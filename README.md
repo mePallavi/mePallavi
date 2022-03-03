@@ -3,7 +3,7 @@
 <!-- 
 📈 my github stats -->
 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=mePallavi&show_icons=true&theme=nightowl" alt="mePallavi" />
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=mePallavi&count_private=true&show_icons=true&theme=nightowl&hide=contribs,issues" alt="mePallavi" />
 
 <!-- [![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mePallavi&show_icons=true&theme=nightowl)](https://github.com/mePallavi/github-readme-stats)
  ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=mePallavi&count_private=true&show_icons=true&include_all_commits=true)  -->
